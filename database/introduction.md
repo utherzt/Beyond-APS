@@ -1,3 +1,3 @@
 ### Course Introduction
 
-BLANK
+This course covers database design and the use of databases in applications, with a short introduction to the internals of relational database engines. It includes extensive coverage of the relational model, relational algebra, and SQL. The course also features database design and relational design principles based on dependencies and normal forms. Many additional key database topics from the design and application-building perspective are also covered, including indexes, views, transactions, and integrity constraints. Systems such as MapReduce framework and key-value stores will also be covered. There will be a programming project, which explores database design and management in web applications by utilizing appropriate features of SQL.

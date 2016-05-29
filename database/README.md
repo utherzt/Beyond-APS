@@ -2,9 +2,9 @@
 
 - [Course Introduction](introduction.md)
 
-    - [ ] 课程介绍
+    - [x] 课程介绍
 
-    暂时没想好怎么描述
+    自己组织
 
 
 - [Terms](terms.md)

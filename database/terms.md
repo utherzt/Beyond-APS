@@ -80,7 +80,7 @@ The relational model specifies that the tuples of a relation have no specific or
 
 - Index
 
-    加快查找对应数值的速度。索引会对字段排序，查找某条记录时先在索引找到匹配值,然后再在Table中返回对应行的记录
+    A database index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure.
 
 ---
 

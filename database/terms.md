@@ -1,22 +1,34 @@
 ### Terms
 
+---
+
 **`Database`**: A collection of interrelated stored data and description of data.
 
 - why need database
 
   Usually data is too large to fit into main memory, and often used by many users.
 
+---
+
 **`DBMS`**: DBMS is short for `Database Management SYstem`, a software system designed to store, manage, and facilitate access to databases.
+
+---
 
 **`Data Model`**: A `Data Model` is a collection of concepts for describing data.
 
+---
+
 **`Schema`**: A `Schema` is a description of a particular collection of data, using a given data model.
+
+---
 
 **`Relational Model of Data`**: The `relational model of data` is the most widely used model today.
 
 - Main Concept: `relation`, basically a table with rows and columns.
 
 - Every relation has a schema, which describes the columns(fields, attributes) and keys.
+
+---
 
 **`ER model`**: entities & relationships
 
@@ -32,6 +44,8 @@
 
 - Relationship: Association among two or more entities. (e.g. of Web Search: word in document, document links to document)
   - Relationship Set: Collection of similar relationships. Same entity set could participate in different relationship sets ('roles') in the same set.
+
+---
 
 **`Relational Database`**: a set of relations.
 
@@ -68,15 +82,26 @@ The relational model specifies that the tuples of a relation have no specific or
 
     加快查找对应数值的速度。索引会对字段排序，查找某条记录时先在索引找到匹配值,然后再在Table中返回对应行的记录
 
+---
 
 **`Transaction`**: an sequence of database actions (reads/writes) executed atomically by DBMS. should take DB from one consistent state to another.
 
+---
+
 **`DDL`**: Data Definition Language
+
+---
 
 **`DML`**: Data Manipulation Language = query language (e.g. SQL)
 
+---
+
 **`DCL`**: Data Control Language
 
+---
+
 **`SQL`**: Structured Query Language  is a special-purpose programming language designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS).
+
+---
 
 **`View`**: Views can be used to present necessary information (or provide a summary), while hiding details in underlying relation(s).

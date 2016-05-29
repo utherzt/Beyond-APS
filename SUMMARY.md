@@ -1,6 +1,6 @@
 # Table of Content
 
-- [Database Principles and Design](#database)
+- [Database Principles and Design](database.md)
   - [Course Introduction](#database-introduction)
   - [Terms](#database-terms)
   - [Three-Schema Architecture](#database-three-schema)
